@@ -14,6 +14,7 @@ The game generates a random number between **0** and **100**, and your goal is t
 2. Enter your guess (a number between 0 and 100).
 3. Receive feedback on your guess.
 4. Repeat until you guess correctly, or press `q` to quit.
+5. If you win, you can start a new game with pressing  `y` or close the game with pressing `n`.
 
 ## Feedback
 If you’ve tried the game, we’d love to hear your thoughts and suggestions!  
